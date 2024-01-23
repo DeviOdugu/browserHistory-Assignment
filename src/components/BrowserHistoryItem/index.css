@@ -1,0 +1,37 @@
+.list {
+  display: flex;
+  font-family: 'Roboto';
+  justify-content: space-between;
+}
+.c {
+  display: flex;
+}
+.time {
+  color: #475569;
+  font-size: 13px;
+  font-weight: bold;
+  padding-right: 50px;
+}
+.domain-logo {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.title {
+  color: #475569;
+  font-size: 13px;
+  font-weight: bold;
+  padding-right: 15px;
+}
+.domain {
+  color: #64748b;
+  font-size: 12px;
+  padding-top: 2px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
+.delete {
+  margin-top: 12px;
+  margin-right: 30px;
+}
